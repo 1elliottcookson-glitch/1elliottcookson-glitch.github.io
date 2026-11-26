@@ -1,0 +1,16 @@
+
+title: "Elliott Cookson"
+description: "A personal collection of writing, reading, ideas, and explorations."
+author: "Elliott Cookson"
+
+theme: null
+
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+collections:
+  essays:
+    output: true
+
+exclude:
+  - README.md
